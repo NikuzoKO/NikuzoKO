@@ -10,7 +10,7 @@ Full-stack developer and game dev. I build things end to end — from Laravel/Re
 
 **Compacta** — full-stack Laravel API + React frontend, shipped and live at [compacta.net.uy](https://compacta.net.uy).
 
-**SkyTrim** *(in progress)* — a Fabric mod for Hypixel Skyblock: custom HUD, live API integration, generic menu re-skinning, dungeon/garden/auction tooling. Not yet public.
+**[SkyTrim](https://github.com/NikuzoKO/skytrim)** — a Fabric mod for Hypixel Skyblock: custom HUD, live API integration, generic menu re-skinning, dungeon/garden/auction tooling.
 
 **musicli** *(in progress)* — a terminal YouTube music player (Ink/React), mpv-driven playback over IPC, yt-dlp search. Not yet public.
 
