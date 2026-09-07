@@ -6,13 +6,13 @@ Full-stack developer and game dev. I build things end to end — from Laravel/Re
 
 **[The Disciple](https://github.com/NikuzoKO/the-disciple)** — Godot 4.7 roguelite combining Dark Souls-style combat with Diablo/PoE-style loot and skill trees. PC first, console/mobile ports planned.
 
-**Rubble Stone** *(in progress)* — dark-fantasy tower-defense/deckbuilder hybrid (Loop Hero meets Plants vs. Zombies), Godot + GodotJS. Repo coming once the core loop is proven out.
+**[Rubble Stone](https://github.com/NikuzoKO/rubble-stone)** *(early prototype)* — dark-fantasy tower-defense/deckbuilder hybrid (Loop Hero meets Plants vs. Zombies), Godot + GodotJS.
 
 **Compacta** — full-stack Laravel API + React frontend, shipped and live at [compacta.net.uy](https://compacta.net.uy).
 
 **[SkyTrim](https://github.com/NikuzoKO/skytrim)** — a Fabric mod for Hypixel Skyblock: custom HUD, live API integration, generic menu re-skinning, dungeon/garden/auction tooling.
 
-**musicli** *(in progress)* — a terminal YouTube music player (Ink/React), mpv-driven playback over IPC, yt-dlp search. Not yet public.
+**[musicli](https://github.com/NikuzoKO/musicli)** — a terminal YouTube music player (Ink/React), mpv-driven playback over IPC, yt-dlp search.
 
 **[mtgCardArtViewer](https://github.com/NikuzoKO/mtgCardArtViewer)** — Magic: The Gathering card art browser.
 
