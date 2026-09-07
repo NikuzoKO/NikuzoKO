@@ -2,6 +2,8 @@
 
 Full-stack developer and game dev. I build things end to end — from Laravel/React production apps to Godot games to low-level systems tooling (Linux/Hyprland config engineering, reverse-engineered game mods).
 
+**[→ Full portfolio site](https://nikuzoko.github.io/portfolio/)**
+
 ## Featured projects
 
 **[The Disciple](https://github.com/NikuzoKO/the-disciple)** — Godot 4.7 roguelite combining Dark Souls-style combat with Diablo/PoE-style loot and skill trees. PC first, console/mobile ports planned.
@@ -19,6 +21,3 @@ Full-stack developer and game dev. I build things end to end — from Laravel/Re
 ## Stack
 
 `Godot / GDScript / GodotJS` · `TypeScript / React` · `PHP / Laravel` · `Python` · `Linux (Arch, i3, Hyprland)` · systems scripting & tooling
-
----
-*Portfolio site in progress — link coming soon.*
